@@ -1,16 +1,16 @@
-# 🎙️ Voice Assistant with Whisper + Gemini
+# 🎙️ SpeakIA
 
 <p align="center">
   <img src="./assets/demo.gif" width="250">
 </p>
 
-Um assistente de voz em Python que:
+O SpeakIA é um assistente virtual desenvolvido em Python capaz de:
 
-- 🎤 Grava áudio pelo microfone
-- 📝 Transcreve fala em texto usando Whisper
-- 🤖 Envia a transcrição para o Gemini AI
-- 🔊 Converte a resposta em voz usando gTTS
-- ▶️ Reproduz automaticamente o áudio da resposta
+- 🎤 Capturar áudio do microfone
+- 📝 Transcrever fala em texto utilizando Whisper
+- 🤖 Gerar respostas inteligentes com Gemini AI
+- 🔊 Converter texto em voz usando gTTS
+- ▶️ Reproduzir automaticamente as respostas em áudio
 
 ---
 
@@ -24,6 +24,16 @@ Um assistente de voz em Python que:
 - sounddevice
 - soundfile
 - NumPy
+
+---
+
+# ⚙️ Funcionalidades
+
+✅ Gravação de voz em tempo real  
+✅ Transcrição automática de áudio  
+✅ Integração com Inteligência Artificial  
+✅ Conversão de texto em fala  
+✅ Reprodução automática das respostas  
 
 ---
 
