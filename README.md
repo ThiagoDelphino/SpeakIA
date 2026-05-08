@@ -32,5 +32,5 @@ Um assistente de voz em Python que:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/ThiagoDelphino/SpeakIA.git
+cd SpeakIA
