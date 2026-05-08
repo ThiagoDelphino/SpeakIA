@@ -1,2 +1,36 @@
-# SpeakIA
-Neste projeto busquei, através de um programa em Python, a realização de um breve momento de conversa com o agente de IA Gemini, utilizando algumas bibliotecas para a manipulação dos dados garantindo a exibição do texto e garantindo a reprodução do texto como resposta. 
+# 🎙️ Voice Assistant with Whisper + Gemini
+
+<p align="center">
+  <img src="./assets/demo.gif" width="250">
+</p>
+
+Um assistente de voz em Python que:
+
+- 🎤 Grava áudio pelo microfone
+- 📝 Transcreve fala em texto usando Whisper
+- 🤖 Envia a transcrição para o Gemini AI
+- 🔊 Converte a resposta em voz usando gTTS
+- ▶️ Reproduz automaticamente o áudio da resposta
+
+---
+
+# 🚀 Tecnologias Utilizadas
+
+- Python
+- Whisper
+- Google Gemini AI
+- gTTS
+- pygame
+- sounddevice
+- soundfile
+- NumPy
+
+---
+
+# 📦 Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+cd SEU_REPOSITORIO
